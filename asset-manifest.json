@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Vishaldev098/Text-utility.git/static/css/main.a2082e01.chunk.css",
+    "main.js": "/Vishaldev098/Text-utility.git/static/js/main.5cf4b92b.chunk.js",
+    "main.js.map": "/Vishaldev098/Text-utility.git/static/js/main.5cf4b92b.chunk.js.map",
+    "runtime-main.js": "/Vishaldev098/Text-utility.git/static/js/runtime-main.528177e4.js",
+    "runtime-main.js.map": "/Vishaldev098/Text-utility.git/static/js/runtime-main.528177e4.js.map",
+    "static/js/2.ac378359.chunk.js": "/Vishaldev098/Text-utility.git/static/js/2.ac378359.chunk.js",
+    "static/js/2.ac378359.chunk.js.map": "/Vishaldev098/Text-utility.git/static/js/2.ac378359.chunk.js.map",
+    "static/js/3.7be1bd5b.chunk.js": "/Vishaldev098/Text-utility.git/static/js/3.7be1bd5b.chunk.js",
+    "static/js/3.7be1bd5b.chunk.js.map": "/Vishaldev098/Text-utility.git/static/js/3.7be1bd5b.chunk.js.map",
+    "index.html": "/Vishaldev098/Text-utility.git/index.html",
+    "static/css/main.a2082e01.chunk.css.map": "/Vishaldev098/Text-utility.git/static/css/main.a2082e01.chunk.css.map",
+    "static/js/2.ac378359.chunk.js.LICENSE.txt": "/Vishaldev098/Text-utility.git/static/js/2.ac378359.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.528177e4.js",
+    "static/js/2.ac378359.chunk.js",
+    "static/css/main.a2082e01.chunk.css",
+    "static/js/main.5cf4b92b.chunk.js"
+  ]
+}
